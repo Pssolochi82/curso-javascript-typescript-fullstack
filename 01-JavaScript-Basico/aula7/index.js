@@ -1,5 +1,5 @@
 // Variaveis Constantes,precisam ter nomes significativos
-// Uma regra muito importante,uma variavel constante, não pode começar com número.
+// Uma regra muito importante,uma variavel constante, não pode começar com número e não podem ser alteradas ao longo do código.
 // As variaveis constantes não, podem conter espaços ou traços.
 // case-sentitive.
 // Utilizamos camelCase.

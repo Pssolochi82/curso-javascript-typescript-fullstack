@@ -7,7 +7,7 @@ const nome = 'Palmira';
 const sobrenome = 'Solochi';
 const idade = 41;
 const peso = 84;
-const alturaEmM = 1.80;
+const alturaEmM = 1.76;
 let indiceMassaCorporal = 84
 let anoNascimento;
 
